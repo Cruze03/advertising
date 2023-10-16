@@ -2,19 +2,19 @@ std::string ReplaceAll(std::string str, const std::string& from, const std::stri
 
 const std::string colors_text[] = {
 	"{DEFAULT}",
-	"{RED}",
+	"{DARKRED}",
 	"{LIGHTPURPLE}",
 	"{GREEN}",
-	"{LIME}",
 	"{LIGHTGREEN}",
+	"{LIME}",
 	"{LIGHTRED}",
-	"{GRAY}",
-	"{LIGHTOLIVE}",
-	"{OLIVE}",
+	"{GREY}",
+	"{YELLOW}",
+	"{ORANGE}",
 	"{LIGHTBLUE}",
-	"{BLUE}",
+	"{DARKBLUE}",
 	"{PURPLE}",
-	"{GRAYBLUE}",
+	"{BLUEGREY}",
 	"\\n"
 };
 
